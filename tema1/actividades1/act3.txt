@@ -1,0 +1,37 @@
+Cuestionario GIFT
+//Realizado por: Emilio Campos
+
+//Pregunta 1: ¿Cual de los siguientes personajes está considerado el padre de la web? {
+-Tim Burton
+=Tim Berners Lee
+-Lee Harvey Oswal
+}
+
+//Pregunta 2: ¿Qué NO es una característica de un lenguaje de marcas? {
+=Número de caracteres máximo que no puede ser superado
+-Uso de texto plano
+-Compacidad
+-Flexibilidad
+}
+
+//Pregunta 3: ¿Cual de los siguientes NO es un lenguaje de marcas? {
+-XHML
+-HTML
+=Java
+-LaTeX
+}
+
+//Pregunta 4: ¿Qué herramienta es necesaria para ver el resultado de un código HTML? {
+-Lector de pdf
+-Procesador de texto
+-Editor de texto
+=Navegador web
+}
+
+//Pregunta 5: ¿Cómo están los navegadores web?
+-Supermineralizados
+-Fuertes
+-Supervitaminados
+-Seguros
+=La primera y la tercera opción
+-La segunda y la cuarta opción
